@@ -1,0 +1,5 @@
+D:\FullStack\WebAplication\PersonasAPI\ResourceAccess\bin\Debug\netcoreapp3.1\ResourceAccess.deps.json
+D:\FullStack\WebAplication\PersonasAPI\ResourceAccess\bin\Debug\netcoreapp3.1\ResourceAccess.dll
+D:\FullStack\WebAplication\PersonasAPI\ResourceAccess\obj\Debug\netcoreapp3.1\ResourceAccess.csprojAssemblyReference.cache
+D:\FullStack\WebAplication\PersonasAPI\ResourceAccess\obj\Debug\netcoreapp3.1\ResourceAccess.AssemblyInfoInputs.cache
+D:\FullStack\WebAplication\PersonasAPI\ResourceAccess\obj\Debug\netcoreapp3.1\ResourceAccess.AssemblyInfo.cs
